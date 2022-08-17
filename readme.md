@@ -1,16 +1,17 @@
 # Java Guided Inquiry
 
-## Software Engineer / Creator
+### Software Engineer / Creator
 - Jorge L
 - Road To Hire Program 2022
 
 ### **Java Oracle Badge / Certificate**
 
 ![Screenshot (1)](Images/Oracle_Completion.png)
+
 ![Screenshot (2)](Images/Oracle_Java_Badge.png)
 
 
-### **For Loop w/ Jave**
+### **For Loop w/ Java**
 
 Solve this in Java. Print integers 1 to 100, 
 but print “Fizz” if an integer is divisible by 3, 
